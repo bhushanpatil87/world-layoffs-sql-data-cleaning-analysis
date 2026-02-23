@@ -280,6 +280,11 @@ After cleaning and transforming the dataset in MySQL, the refined data was impor
 <hr>
 
 <h3>📷 Dashboard Preview</h3>
+<p>
+<img width="1323" height="746" alt="Screenshot 2026-02-23 231529" src="https://github.com/user-attachments/assets/0a9f4fdf-dccd-4b7f-9c4d-c342b1a28e7b" />
+</p>
+
+<hr>
 
 <h2>📌 How to Run This Project</h2>
 
@@ -291,12 +296,6 @@ After cleaning and transforming the dataset in MySQL, the refined data was impor
 <li>Query the cleaned table <b>layoffs_staging2</b></li>
 </ol>
 <hr>
-<p>
-<img width="1323" height="746" alt="Screenshot 2026-02-23 231529" src="https://github.com/user-attachments/assets/0a9f4fdf-dccd-4b7f-9c4d-c342b1a28e7b" />
-</p>
-
-<hr>
-
 <h2>👨‍💻 Author</h2>
 
 <p>
