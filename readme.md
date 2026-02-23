@@ -6,8 +6,9 @@
 <h2>📌 Project Overview</h2>
 
 <p>
-This project focuses on cleaning and transforming a real-world global layoffs dataset using <b>MySQL</b>.  
-The objective was to convert raw, inconsistent data into a structured, analysis-ready dataset suitable for reporting and business intelligence.
+This project analyzes global employee layoff data using <b>SQL<b> for data cleaning and exploratory data analysis (EDA) and <b>Power BI<b> for interactive dashboard visualization.
+
+The objective was to uncover layoff trends across industries, countries, companies, and time periods to understand workforce reduction patterns globally.
 </p>
 
 <p><b>This project demonstrates:</b></p>
