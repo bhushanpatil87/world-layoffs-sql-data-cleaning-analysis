@@ -1,5 +1,5 @@
-<h1 align="center">🌍 World Layoffs Data Cleaning & Transformation</h1>
-<h3 align="center">SQL Data Cleaning Project (MySQL)</h3>
+<h1 align="center">🌍 Global Layoffs Analysis & Dashboard</h1>
+<h3 align="center">SQL Data Cleaning, EDA & Power BI Visualization</h3>
 
 <hr>
 
@@ -32,6 +32,9 @@ The objective was to uncover layoff trends across industries, countries, compani
 <li><b>Query Tool:</b> MySQL Workbench</li>
 <li><b>Editor:</b> VS Code</li>
 <li><b>Version Control:</b> Git & GitHub</li>
+<li><b>Power BI</b> – Dashboard Development</li>
+<li><b>DAX</b> – KPI & Measure Creation</li>
+<li><b>Data Modeling</b> – Clean schema design</li>
 </ul>
 
 <hr>
@@ -273,12 +276,6 @@ After cleaning and transforming the dataset in MySQL, the refined data was impor
 </ul>
 
 <h3>🛠 Tools Used for BI Layer</h3>
-
-<ul>
-<li><b>Power BI</b> – Dashboard Development</li>
-<li><b>DAX</b> – KPI & Measure Creation</li>
-<li><b>Data Modeling</b> – Clean schema design</li>
-</ul>
 
 <hr>
 
