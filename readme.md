@@ -233,6 +233,55 @@ In real-world analytics, data cleaning consumes <b>70–80% of the workflow</b>.
 </ul>
 
 <hr>
+hr>
+
+<h2>📊 Power BI Dashboard & Business Intelligence Layer</h2>
+
+<p>
+After cleaning and transforming the dataset in MySQL, the refined data was imported into <b>Power BI</b> to perform exploratory analysis and develop an interactive business dashboard.
+</p>
+
+<p><b>Objective:</b> Transform cleaned data into actionable insights for business and investment decision-making.</p>
+
+<hr>
+
+<h3>📌 Dashboard Highlights</h3>
+
+<ul>
+<li>✔ Total Employees Laid Off (KPI)</li>
+<li>✔ Average Layoff Percentage</li>
+<li>✔ Layoff Trend Over Time (Time-Series Analysis)</li>
+<li>✔ Industry-wise Layoff Impact</li>
+<li>✔ Country-wise Layoff Distribution</li>
+<li>✔ Layoffs by Company Stage </li>
+<li>✔ Funds Raised vs Layoff Analysis</li>
+<li>✔ Company-Level Drilldown Table</li>
+</ul>
+
+<hr>
+
+<h3>📊 Visualizations Used</h3>
+
+<ul>
+<li>Line Chart → Layoffs over time</li>
+<li>Horizontal Bar Chart → Industry comparison</li>
+<li>Map Visualization → Country impact</li>
+<li>Stacked Column Chart → Layoffs by funding stage</li>
+<li>Map → Loaction,country layoffs</li>
+<li>KPI Cards → Executive summary metrics</li>
+</ul>
+
+<h3>🛠 Tools Used for BI Layer</h3>
+
+<ul>
+<li><b>Power BI</b> – Dashboard Development</li>
+<li><b>DAX</b> – KPI & Measure Creation</li>
+<li><b>Data Modeling</b> – Clean schema design</li>
+</ul>
+
+<hr>
+
+<h3>📷 Dashboard Preview</h3>
 
 <h2>📌 How to Run This Project</h2>
 
@@ -243,6 +292,10 @@ In real-world analytics, data cleaning consumes <b>70–80% of the workflow</b>.
 <li>Execute <b>1-cleaning.sql</b></li>
 <li>Query the cleaned table <b>layoffs_staging2</b></li>
 </ol>
+<hr>
+<p>
+<img width="1323" height="746" alt="Screenshot 2026-02-23 231529" src="https://github.com/user-attachments/assets/0a9f4fdf-dccd-4b7f-9c4d-c342b1a28e7b" />
+</p>
 
 <hr>
 
