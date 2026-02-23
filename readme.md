@@ -284,8 +284,6 @@ After cleaning and transforming the dataset in MySQL, the refined data was impor
 <img width="1323" height="746" alt="Screenshot 2026-02-23 231529" src="https://github.com/user-attachments/assets/0a9f4fdf-dccd-4b7f-9c4d-c342b1a28e7b" />
 </p>
 
-<hr>
-
 <h2>📌 How to Run This Project</h2>
 
 <ol>
